@@ -123,6 +123,7 @@ function App() {
       <div className="">test auto save</div>
       <div className="">Lorem ipsum dolor sit amet</div>
       <div className="">huhu</div>
+      <div className="">test tiếp nè</div>
       <div className="ticks"></div>
       <section id="spacer"></section>
     </>
