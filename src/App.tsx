@@ -118,6 +118,11 @@ function App() {
       <div className="">Testttttttttttttttttt</div>
       <div className="">Testttttttttttttttttt</div>
       <div className="">Testttttttttttttttttt</div>
+
+      <div className="">test at home. lorem ipsum dolor sit amet</div>
+      <div className="">test auto save</div>
+      <div className="">Lorem ipsum dolor sit amet</div>
+      <div className="">huhu</div>
       <div className="ticks"></div>
       <section id="spacer"></section>
     </>
